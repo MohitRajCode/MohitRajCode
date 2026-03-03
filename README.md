@@ -78,7 +78,7 @@ Machine Learning | Data Analysis | API Integration | Backend Development
 
 ### 📫 Connect With Me
 
-📧 **Email:** kumarmohit58560@gmail.com  
+📧 **Email:** mohitraj.code@gmail.com
 💼 **LinkedIn:** https://www.linkedin.com/in/mohit-raj-01mine/  
 
 ---
