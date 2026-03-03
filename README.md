@@ -59,6 +59,12 @@ Machine Learning | Data Analysis | API Integration | Backend Development
 
 ---
 
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/MohitRajCode/MohitRajCode/blob/output/github-contribution-grid-snake.svg)
+
 ### 🌱 2026 Goals
 - 🚀 Crack Google Summer of Code  
 - 📦 Contribute consistently to Open Source  
