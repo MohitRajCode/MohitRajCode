@@ -68,7 +68,6 @@ Machine Learning | Data Analysis | API Integration | Backend Development
 ![Snake animation](https://raw.githubusercontent.com/MohitRajCode/MohitRajCode/output/github-contribution-grid-snake.svg)
 
 ### 🌱 2026 Goals
-- 🚀 Crack Google Summer of Code  
 - 📦 Contribute consistently to Open Source  
 - 🧠 Master Data Structures & Algorithms  
 - 🏗 Build 5+ High-Impact Projects  
@@ -79,7 +78,7 @@ Machine Learning | Data Analysis | API Integration | Backend Development
 ### 📫 Connect With Me
 
 📧 **Email:** mohitraj.code@gmail.com
-💼 **LinkedIn:** https://www.linkedin.com/in/mohit-raj-01mine/  
+💼 **LinkedIn:** (https://www.linkedin.com/in/mohit-raj-coder/)
 
 ---
 
