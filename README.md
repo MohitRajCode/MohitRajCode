@@ -19,7 +19,7 @@ I love exploring technology, building projects, and learning about **AI, Machine
 ### 🧠 What I’m Currently Working On
 - 📊 Learning **Machine Learning** & **Data Science** through real-world projects  
 - 🌐 Exploring **Web Development** (React, Tailwind CSS, Node.js)  
-- 🤖 Preparing for **Google Summer of Code (GSoC) 2026**  
+- 🤖 Preparing for **Google Summer of Code (GSoC) 2027**  
 - 🏗 Building strong fundamentals in Data Structures & Algorithms  
 
 ---
